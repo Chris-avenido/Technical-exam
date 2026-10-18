@@ -1,0 +1,41 @@
+:root {
+  /* Surface & Background */
+  --bg-primary: #070a13;
+  --bg-surface: #0d1527;
+  --bg-card: #131f37;
+  --bg-card-hover: #1a2948;
+  --bg-card-active: #213357;
+  
+  /* Borders */
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.16);
+  --border-glow: rgba(0, 229, 153, 0.35);
+
+  /* Typography Colors */
+  --text-main: #f1f5f9;
+  --text-muted: #94a3b8;
+  --text-dim: #64748b;
+
+  /* Rugby Palette */
+  --accent-turf: #00e599;
+  --accent-turf-glow: rgba(0, 229, 153, 0.25);
+  --accent-gold: #ffb800;
+  --accent-gold-glow: rgba(255, 184, 0, 0.25);
+  --accent-cyan: #00d2ff;
+  --accent-cyan-glow: rgba(0, 210, 255, 0.25);
+  --accent-danger: #ff4757;
+  --accent-purple: #a855f7;
+
+  /* Font Families */
+  --font-display: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Shadows & Radii */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 25px rgba(0, 229, 153, 0.18);
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+}
